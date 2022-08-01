@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 96vh;
+}
+
+.subscribe {
+    padding: 10px 20px;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 2px;
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    letter-spacing: 1px;
+    cursor: pointer;
+    content: 'subscribe';
+}
